@@ -1,0 +1,6 @@
+Data::insert([
+    [
+        "name" =>  "Jothi",
+        "address" =>  "hi",
+    ],
+    ]);
